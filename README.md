@@ -4,8 +4,9 @@ Upload PDF documents, ask questions in natural language, and get answers that ar
 **grounded in your documents**, together with the **document name and page number**
 of every source.
 
-> 🔗 **Live demo:https://pdfragchatbot-urhadesdvtcp2afadbya8j.streamlit.app/ 
-> 🖼️ **Screenshot:** 
+> 🔗 **Live demo:https://pdfragchatbot-urhadesdvtcp2afadbya8j.streamlit.app/
+> 
+> 🖼️ **Screenshot: 
 
 ## Why RAG?
 Fine-tuning stores knowledge in model weights: it is expensive and hard to update.
